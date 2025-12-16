@@ -6,8 +6,8 @@ I think I came across Gemini a while back and thought it was a novel idea, but d
 
 It's fitting that the protocol was named Gemini after the NASA missions in the 1960s. If you're not familar with them, they were the last set of missions before the Apollo missions where we went to the moon. The Gemini missions had to test all the things that they would need to do in order to get to the Moon, with advance objects like docking spacecraft. My favorite was the first EVA, aka spacewalk. 
 
-=> gemini://gem.stevedylan.dev/assets/spacewalk-1.jpg Image - The Ship
-=> gemini://gem.stevedylan.dev/assets/spacewalk-2.webp Image - Floating
+=> gemini://gem.stevedylan.dev/assets/spacewalk-1.webp Image - The Ship
+=> gemini://gem.stevedylan.dev/assets/spacewalk-2.jpg Image - Floating
 => gemini://gem.stevedylan.dev/assets/spacewalk-3.jpg Image - Selfie
 
 The capsule was tiny. The astronauts just opened the small door, and with a tether hooked up to the ship, walked out into the nothingness of space. Truly going where no man had gone before.
