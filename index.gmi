@@ -18,16 +18,16 @@
 
 # Steve's Capsule
 
-Welcome to my little drifting capsule looking at the pale blue dot. 
-This is my small space to experiment with Gemini and explore the small web here!
+Welcome to my little drifting capsule, looking out towards the pale blue dot. 
+This is my space to experiment with Gemini and explore the small web here!
 
 ## About Me
 
-Steve | DX engineer
-Building dev tools to advance cypherpunk values
-Believing in a future web that is open, secure, and free
-Passionate about art, literature, writing, and sustainable web practices
-Hills of Tennessee
+* Steve | DX engineer
+* Building dev tools to advance cypherpunk values
+* Believing in a future web that is open, secure, and free
+* Passionate about art, literature, writing, and sustainable web practices
+* Hills of Tennessee
 
 ## Latest
 
