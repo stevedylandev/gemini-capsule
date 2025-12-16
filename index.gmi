@@ -1,0 +1,44 @@
+ .              +   .                .   . .     .  .  
+                   .                    .       .     *
+  .       *                        . . . .  .   .  + .
+            "You Are Here"            .   .  +  . . .
+.                 |             .  .   .    .    . .
+                  |           .     .     . +.    +  .
+                 \|/            .       .   . .
+        . .       V          .    * . . .  .  +   .
+           +      .           .   .      +
+                            .       . +  .+. .
+  .                      .     . + .  . .     .      .
+           .      .    .     . .   . . .        ! /
+      *             .    . .  +    .  .       - O -
+          .     .    .  +   . .  *  .       . / |
+               . + .  .  .  .. +  .
+.      .  .  .  *   .  *  . +..  .            *
+ .      .   . .   .   .   . .  +   .    .            +
+
+# Steve's Capsule
+
+Welcome to my little drifting capsule looking at the pale blue dot. 
+This is my small space to experiment with Gemini and explore the small web here!
+
+## About Me
+
+Steve | DX engineer
+Building dev tools to advance cypherpunk values
+Believing in a future web that is open, secure, and free
+Passionate about art, literature, writing, and sustainable web practices
+Hills of Tennessee
+
+## Latest
+
+=> hello-gemini.gmi Hello Gemini
+
+## Links
+
+=> writing.gmi My Writing
+=> mailto:contact@stevedylan.dev Email
+=> https://stevedylan.dev Website
+
+---
+
+Last updated: 2025-12-15
