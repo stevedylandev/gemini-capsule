@@ -36,6 +36,7 @@ Hills of Tennessee
 ## Links
 
 => mailto:contact@stevedylan.dev Email
+=> public_key.asc PGP Public Key
 => https://stevedylan.dev Website
 
 ---
