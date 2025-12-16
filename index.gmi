@@ -35,7 +35,6 @@ Hills of Tennessee
 
 ## Links
 
-=> writing.gmi My Writing
 => mailto:contact@stevedylan.dev Email
 => https://stevedylan.dev Website
 
