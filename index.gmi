@@ -20,8 +20,7 @@
 
 # Steve's Capsule
 
-Welcome to my little drifting capsule, looking out towards the pale blue dot. 
-This is my space to experiment with Gemini and explore the small web here!
+Welcome to my little capsule, looking out towards the pale blue dot. 
 
 ## About Me
 
@@ -33,13 +32,13 @@ This is my space to experiment with Gemini and explore the small web here!
 
 ## Latest
 
-=> hello-gemini.gmi Hello Gemini
+=> gemini-quickstart.gmi Gemini Quickstart
 
 ## Links
 
 => mailto:contact@stevedylan.dev Email
 => public_key.asc PGP Public Key
-=> https://stevedylan.dev Website
+=> https://stevedylandev.eth.limo ENS
 
 ---
 

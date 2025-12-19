@@ -1,0 +1,36 @@
+# Gemini Quickstart
+
+You made it! Welcome aboard my capsule. In this short little guide I'll give you some tips on how to get started with Gemini.
+
+## Navigation
+
+There are a couple of ways to navigate around Gemini. The first is to just visit a direct link like you just did by getting here. Now that you're on this capsule you can visit other capsules or pages by typing the number corresponding to the link you want to visit. If you're on Amfora you can use space to type in numbers greater than 9 and then press enter to "click" them. Try visiting the link below, then press "b" to go back:
+
+=> gemini://gem.stevedylan.dev
+
+Finally there are search engines you can use! In my experience it can be a little tricky to find a good one, so far gemini://kennedy.gemi.dev seems to work pretty well.
+
+One other thing I should mention is that Gemini is more than just text actually. Text is what is rendered in your client, so there won't be embedded images or videos. However people can link to an image that lives in their capsule like any other server. Take this one for instance:
+
+=> gemini://gem.stevedylan.dev/assets/spacewalk-1.webp Gemini Capsule
+
+If you visited that link you were probably prompted to either open the image in your default preview app on your computer, or download it. This can apply for videos, audio files, even programs!
+
+## Start Exploring
+
+Now that you have the basics, the only thing left to do is to explore and see what's out there. I'm just going to leave you three links. 
+
+=> gemini://geminiprotocol.net Official Gemini Protocol Capsule
+Loads to read here if you want to learn more about Gemini, details of the protocol, or recommended resources.
+
+=> gemini://warmedal.se/~antenna/ Antenna
+A miniblog (aka gemlog) aggregator, easy way to find new capsules and see what people are writing about.
+
+=> gemini://gemi.dev Gemi.Dev
+Really cool collection of stuff like a search engine, wayback machine, even popular news feeds!
+
+## Step Out
+
+Gemini is named after the NASA Gemini missions in the 1960s. Their goal was to test some of the tasks that would need to be carried out in space before going to the moon in the Apollo missions, and one of those tasks was a spacewalk. Edward White stepped out of the small capsule with nothing but his suit and a lifeline tether that was attached to the ship. Don't be afraid to step out.
+
+=> gemini://gem.stevedylan.dev/assets/spacewalk-2.jpg EVA

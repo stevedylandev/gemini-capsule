@@ -4,7 +4,7 @@ I think I came across Gemini a while back and thought it was a novel idea, but d
 
 => gemini://gem.chiajlingvoj.ynh.fr/konpeito/konpeito_media_mirror.gmi Konpeito Mirror 
 
-It's fitting that the protocol was named Gemini after the NASA missions in the 1960s. If you're not familar with them, they were the last set of missions before the Apollo missions where we went to the moon. The Gemini missions had to test all the things that they would need to do in order to get to the Moon, with advance objects like docking spacecraft. My favorite was one of the first EVA, aka spacewalk. 
+It's fitting that the protocol was named Gemini after the NASA missions in the 1960s. If you're not familar with them, they were the last set of missions before the Apollo missions where we went to the moon. The Gemini missions had to test all the things that they would need to do in order to get to the Moon, with advance objects like docking spacecraft. My favorite was the first EVA, aka spacewalk. 
 
 => gemini://gem.stevedylan.dev/assets/spacewalk-1.webp Image - The Ship
 => gemini://gem.stevedylan.dev/assets/spacewalk-2.jpg Image - Floating
