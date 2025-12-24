@@ -15,3 +15,7 @@ The capsule was tiny. The astronauts just opened the small door, and with a teth
 In some ways I feel the same about this protocol. It's "new" and yet in some ways its where we've already been. I'm likely to keep using the web, but I'm also interested in what I can find here that isn't anywhere else.
 
 => mailto:contact@stevedylan.dev?subject=Gemini Reply via Email
+
+---
+
+=> gemini://gem.stevedylan.dev/gemlog Go Back

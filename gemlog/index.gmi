@@ -4,5 +4,8 @@ Floating out into space, looking back on the pale blue dot
 
 ## Posts
 
-=> 2025-12-15_hello-gemini.gmi Hello Gemini
+=> 2025-12-15-hello-gemini.gmi Hello Gemini
 
+---
+
+=> gemini://gem.stevedylan.dev Go Back

@@ -32,10 +32,12 @@ Welcome to my little capsule, looking out towards the pale blue dot.
 
 ## Latest
 
-=> gemini-quickstart.gmi Gemini Quickstart
+=> gemini-quickstart Gemini Quickstart
+=> 2025-12-15-hello-gemini.gmi Hello Gemini
 
 ## Links
 
+=> gemlog Gemlog
 => mailto:contact@stevedylan.dev Email
 => public_key.asc PGP Public Key
 => https://stevedylandev.eth.limo ENS

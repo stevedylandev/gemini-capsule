@@ -34,3 +34,7 @@ Really cool collection of stuff like a search engine, wayback machine, even popu
 Gemini is named after the NASA Gemini missions in the 1960s. Their goal was to test some of the tasks that would need to be carried out in space before going to the moon in the Apollo missions, and one of those tasks was a spacewalk. Edward White stepped out of the small capsule with nothing but his suit and a lifeline tether that was attached to the ship. Don't be afraid to step out.
 
 => gemini://gem.stevedylan.dev/assets/spacewalk-2.jpg EVA
+
+---
+
+=> gemini://gem.stevedylan.dev Go Back
