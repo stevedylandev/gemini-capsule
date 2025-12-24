@@ -33,7 +33,7 @@ Welcome to my little capsule, looking out towards the pale blue dot.
 ## Latest
 
 => gemini-quickstart Gemini Quickstart
-=> 2025-12-15-hello-gemini.gmi Hello Gemini
+=> gemlog/2025-12-15-hello-gemini.gmi Hello Gemini
 
 ## Links
 
