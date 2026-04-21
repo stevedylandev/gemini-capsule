@@ -4,6 +4,7 @@ Floating out into space, looking back on the pale blue dot
 
 ## Posts
 
+=> 2026-04-20-ios-gemini-client.gmi Should I ship it?
 => 2025-12-15-hello-gemini.gmi Hello Gemini
 
 ---
