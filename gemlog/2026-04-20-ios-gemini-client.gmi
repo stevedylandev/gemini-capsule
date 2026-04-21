@@ -2,7 +2,7 @@
 
 Several months ago I wrote an iOS Gemini client called Titan II. I finished the MVP, but I haven't really had the time or motivation to ship it to the App Store. I have no idea if anyone would really want it or use it. I like it, and maybe that's enough. At the very least it could motivate me to be on Gemini more often. 
 
-=> https://files.stevedylan.dev/titan-ii.png Screenshot 
+=> gemini://gem.stevedylan.dev/assets/titan-ii.jpg Screenshot of Titan II
 
 Should I ship it? 
 
