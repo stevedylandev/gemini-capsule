@@ -25,7 +25,6 @@ Welcome to my little capsule, looking out towards the pale blue dot.
 ## About Me
 
 * Steve | DX engineer
-* Building dev tools to advance cypherpunk values
 * Believing in a future web that is open, secure, and free
 * Passionate about art, literature, writing, and sustainable web practices
 * Hills of Tennessee
@@ -40,8 +39,7 @@ Welcome to my little capsule, looking out towards the pale blue dot.
 => gemlog Gemlog
 => mailto:contact@stevedylan.dev Email
 => public_key.asc PGP Public Key
-=> https://stevedylandev.eth.limo ENS
 
 ---
 
-Last updated: 2025-12-18
+Last updated: 2026-04-20
