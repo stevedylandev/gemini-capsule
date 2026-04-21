@@ -1,14 +1,14 @@
 # Should I Ship It?
 
-Several months ago I wrote an iOS Gemini client called Titan II. I finished the MVP, but I haven't really had the time or motivation to ship it to the App Store. I have no idea if anyone would really want it or use it. I like it, and maybe that's enough. At the very least it could motivate me to be on Gemini more often. 
+Several months ago I wrote an iOS Gemini client. I finished the MVP, but I haven't really had the time or motivation to ship it to the App Store. I have no idea if anyone would really want it or use it. I like it, and maybe that's enough. At the very least it could motivate me to be on Gemini more often. 
 
-=> gemini://gem.stevedylan.dev/assets/titan-ii.jpg Screenshot of Titan II
+=> gemini://gem.stevedylan.dev/assets/gemini-ios-client-screenshot.jpg Screenshot
 
 Should I ship it? 
 
 If you're interested in helping test it out, contact me and let me know!
 
-=> mailto:contact@stevedylan.dev?subject=Titan%20Testflight Contact Me
+=> mailto:contact@stevedylan.dev?subject=Gemini%20iOS%20Testflight Contact Me
 
 ---
 
