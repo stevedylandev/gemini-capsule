@@ -2,11 +2,9 @@
 
 Floating out into space, looking back on the pale blue dot
 
-## Posts
+=> 2026-04-20-ios-gemini-client.gmi  — Should I Ship It?
+=> 2025-12-15-hello-gemini.gmi  — Hello Gemini
 
-=> 2026-04-20-ios-gemini-client.gmi 2026-04-20 Should I ship it?
-=> 2025-12-15-hello-gemini.gmi 2025-12-15 Hello Gemini
-
----
+──────────────────
 
 => gemini://gem.stevedylan.dev Go Back

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Steve's Capsule</title>
+  <subtitle>Floating out into space, looking back on the pale blue dot</subtitle>
+  <link rel='self' href='gemini://gem.stevedylan.dev/gemlog/atom.xml'/>
+  <link rel='alternate' href='gemini://gem.stevedylan.dev/gemlog/gemlog/index.gmi'/>
+  <updated>2026-04-21T21:40:08-0400</updated>
+  <author>
+    <name>Steve</name>
+    <email>contact@stevedylan.dev</email>
+    <uri>gemini://gem.stevedylan.dev/</uri>
+  </author>
+  <id>gemini://gem.stevedylan.dev/gemlog/</id>
+  <generator uri='https://git.sr.ht/~nytpu/gemlog.sh'>gemlog.sh</generator>
+  <rights>© Steve - </rights>
+
+  <entry>
+    <title>Should I Ship It?</title>
+    <id>gemini://gem.stevedylan.dev/gemlog/gemlog/2026-04-20-ios-gemini-client.gmi</id>
+    <link rel='alternate' href='gemini://gem.stevedylan.dev/gemlog/gemlog/2026-04-20-ios-gemini-client.gmi'/>
+    <updated>2026-04-20T12:00:00-0400</updated>
+  </entry>
+
+  <entry>
+    <title>Hello Gemini</title>
+    <id>gemini://gem.stevedylan.dev/gemlog/gemlog/2025-12-15-hello-gemini.gmi</id>
+    <link rel='alternate' href='gemini://gem.stevedylan.dev/gemlog/gemlog/2025-12-15-hello-gemini.gmi'/>
+    <updated>2025-12-15T12:00:00-0400</updated>
+  </entry>
+</feed>
