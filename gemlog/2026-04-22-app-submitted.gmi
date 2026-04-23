@@ -1,0 +1,9 @@
+# iOS Gemini Client - App Submitted
+
+Just submitted a new native iOS Gemini client for review!
+
+Of course this means I now have a capsule hosted where you can learn more about it, and get a link to download when it's released. 
+
+=> gemini://scout.gemi.software Scout - an iOS Gemini Client
+
+Fingers crossed the review process goes well; I'm sure it will be rather uphill due to the concept of the browser itself. We'll wait and find out!

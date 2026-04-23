@@ -4,7 +4,7 @@
   <subtitle>Floating out into space, looking back on the pale blue dot</subtitle>
   <link rel='self' href='gemini://gem.stevedylan.dev/gemlog/atom.xml'/>
   <link rel='alternate' href='gemini://gem.stevedylan.dev/gemlog/gemlog/index.gmi'/>
-  <updated>2026-04-21T21:40:08-0400</updated>
+  <updated>2026-04-22T20:24:29-0400</updated>
   <author>
     <name>Steve</name>
     <email>contact@stevedylan.dev</email>
@@ -13,6 +13,13 @@
   <id>gemini://gem.stevedylan.dev/gemlog/</id>
   <generator uri='https://git.sr.ht/~nytpu/gemlog.sh'>gemlog.sh</generator>
   <rights>© Steve - </rights>
+
+  <entry>
+    <title>iOS Gemini Client - App Submitted</title>
+    <id>gemini://gem.stevedylan.dev/gemlog/gemlog/2026-04-22-app-submitted.gmi</id>
+    <link rel='alternate' href='gemini://gem.stevedylan.dev/gemlog/gemlog/2026-04-22-app-submitted.gmi'/>
+    <updated>2026-04-22T12:00:00-0400</updated>
+  </entry>
 
   <entry>
     <title>Should I Ship It?</title>

@@ -2,6 +2,7 @@
 
 Floating out into space, looking back on the pale blue dot
 
+=> 2026-04-22-app-submitted.gmi  — iOS Gemini Client - App Submitted
 => 2026-04-20-ios-gemini-client.gmi  — Should I Ship It?
 => 2025-12-15-hello-gemini.gmi  — Hello Gemini
 
