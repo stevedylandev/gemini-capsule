@@ -31,7 +31,7 @@ Welcome to my little capsule, looking out towards the pale blue dot.
 
 ## Latest
 
-=> gemlog/2026-04-20-ios-gemini-client.gmi Should I ship it?
+=> gemlog/2026-04-22-app-submitted.gmi iOS Gemini Client Submitted
 
 ## Links
 
@@ -41,4 +41,4 @@ Welcome to my little capsule, looking out towards the pale blue dot.
 
 ---
 
-Last updated: 2026-04-20
+Last updated: 2026-04-22
