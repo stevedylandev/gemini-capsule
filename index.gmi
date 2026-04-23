@@ -18,7 +18,7 @@
  .      .   . .   .   .   . .  +   .    .            +
 ```
 
-# Steve's Capsule
+# gem.stevedylan.dev
 
 Welcome to my little capsule, looking out towards the pale blue dot. 
 
@@ -31,7 +31,7 @@ Welcome to my little capsule, looking out towards the pale blue dot.
 
 ## Latest
 
-=> gemlog/2026-04-22-app-submitted.gmi iOS Gemini Client Submitted
+=> gemlog/2026-04-23-scout-ios-client-live.gmi Introducing Scout, an iOS Gemini Client
 
 ## Links
 

@@ -1,0 +1,31 @@
+# Introducing Scout, an iOS native Gemini client
+
+=> gemini://scout.gemi.software/assets/screenshot.png Screenshot
+
+I'm excited to announce that Scout, a new iOS Gemini client written in SwiftUI, is live in the App Store! To check it out visit the gmeini page below. 
+
+=> gemini://scout.gemi.software scout.gemini.software
+
+This was a side project I started in December of last year and I practically finished it, but due to a lot of other life circumstances had to pause efforts of publishing it. Really enjoyed building something I wanted to use every day, and it feels good to make it available for anyone else who wants to try it. Here are some of it's features:
+
+- Browse Gemini capsules with full `text/gemini` rendering (headers, links, lists, preformatted text)
+- URL bar with navigation history (back/forward)
+- Tab management
+- Bookmarks
+- Media preview support (images, audio, video)
+- Input prompt handling (status 10/11)
+- Automatic redirect following (status 30/31)
+- TOFU (Trust on First Use) certificate verification
+- Client certificate generation and management
+- Theming support (custom background and text colors)
+
+The code is open source under the MIT license and can be browsed using SSH:
+
+```
+ssh git.stevedylan.dev -t Scout
+```
+
+This also means I am keeping the app 100% free. I don't want a price tag put on people's exploration of Gemini. It is by no means in a final state, so if you have feedback please do let me know! Excited to see what people think of it. 
+
+=> mailto:contact@stevedylan.dev Contact
+=> https://apps.apple.com/us/app/scout-smallnet-browser/id6762810515 App Store

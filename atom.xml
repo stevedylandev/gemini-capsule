@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Steve's Capsule</title>
+  <title>gem.stevedylan.dev</title>
   <subtitle>Floating out into space, looking back on the pale blue dot</subtitle>
   <link rel='self' href='gemini://gem.stevedylan.dev/atom.xml'/>
   <link rel='alternate' href='gemini://gem.stevedylan.dev/gemlog/index.gmi'/>
-  <updated>2026-04-22T21:38:58-0400</updated>
+  <updated>2026-04-23T07:41:31-0400</updated>
   <author>
     <name>Steve</name>
     <email>contact@stevedylan.dev</email>
@@ -13,6 +13,13 @@
   <id>gemini://gem.stevedylan.dev/</id>
   <generator uri='https://git.sr.ht/~nytpu/gemlog.sh'>gemlog.sh</generator>
   <rights>© Steve - </rights>
+
+  <entry>
+    <title>Introducing Scout, an iOS native Gemini client</title>
+    <id>gemini://gem.stevedylan.dev/gemlog/2026-04-23-scout-ios-client-live.gmi</id>
+    <link rel='alternate' href='gemini://gem.stevedylan.dev/gemlog/2026-04-23-scout-ios-client-live.gmi'/>
+    <updated>2026-04-23T12:00:00-0400</updated>
+  </entry>
 
   <entry>
     <title>iOS Gemini Client - App Submitted</title>
