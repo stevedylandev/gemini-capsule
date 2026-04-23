@@ -38,6 +38,7 @@ Welcome to my little capsule, looking out towards the pale blue dot.
 => gemlog Gemlog
 => mailto:contact@stevedylan.dev Email
 => public_key.asc PGP Public Key
+=> gemini://scout.gemi.software Scout - iOS Gemini Client
 
 ---
 
